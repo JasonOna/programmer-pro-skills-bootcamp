@@ -1,14 +1,14 @@
 There are 5 principles we want to actively practice each step in the course. They are:
 
-- [1. System Thinking](#1-system-thinking)
-- [2. Confident Working Software](#2-confident-working-software)
-- [3. Just Enough Up-front Design](#3-just-enough-up-front-design)
-- [4. Incremental Development](#4-incremental-development)
-- [5. Maintainable Software](#5-maintainable-software)
+- [System Thinking](#system-thinking)
+- [Confident Working Software](#confident-working-software)
+- [Just Enough Up-front Design](#just-enough-up-front-design)
+- [Incremental Development](#incremental-development)
+- [Maintainable Software](#maintainable-software)
 
 Each lesson you go through ensure that you are following these principles by following their action items.
 
-# 1. System Thinking
+# System Thinking
 
 We tend to jump straight into solution-mode working on a work item. We tend to fail taking a step back and looking at our surrounding environment.
 
@@ -26,10 +26,10 @@ In every step ask yourself "_How does my solution affect the application as a wh
 
 [![Watch the video](https://img.youtube.com/vi/xcQVgYzlj8k/hqdefault.jpg)](https://www.youtube.com/embed/xcQVgYzlj8k)
 
-# 2. Confident Working Software
+# Confident Working Software
 
 
 
-# 3. Just Enough Up-front Design
-# 4. Incremental Development
-# 5. Maintainable Software
+# Just Enough Up-front Design
+# Incremental Development
+# Maintainable Software
