@@ -1,20 +1,45 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Programmer Pro Skills Bootcamp!
+
+Welcome to the Programmer Pro Skills Bootcamp! Through guided learnings, we will help build your skills that will help
+you get to the next step in your career! Actually, maybe not a guarantee bump on the career ladder just because you completed this course. But I'm sure you'll learn something that will help you! Anyways no idea what to really say here but - all the best!
+
+# How This Works
+
+Each lesson is sectioned by a branch. Lesson branches are named `lesson-NNN` where `NNN` is number in ascending order. eg: `lesson-001`.
+
+Each branch would have its own markdown file denoted by `lesson-NNN.md` (same as its branch) in the `lessons` folder.
+
+The lesson will contain the goal, some steps and some hints.
+
+See [How To Begin And Complete A Lesson](#how-to-begin-and-complete-a-lesson) for futher instructions.
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+1. `Fork` the project to your own repo.
+   * _all you work will be in your own fork and any assessment/review will be in your own repo._
+2. `git clone` your forked repo.
+3. in your repo, add a remote link to the main project. Let's call the main project: `teacher`.
+    * ` git remote add teacher git@ssh.dev.azure.com:v3/ctmaus/CTM/programmer-pro-skills-bootcamp`
+4. `git checkout main`
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## How To Begin And Complete A Lesson
+
+1. `git checkout main`
+2. `git fetch teacher`
+3. Merge the lesson you need to progress to
+   * `git merge teacher/lesson-NNN`
+4. `git checkout -b <branch-name-base-on-what-you-want-to-focus-on>`
+5. `git push -u origin <branch-name-base-on-what-you-want-to-focus-on>`
+6. Create a PullRequest on that branch and get your mentor to review.
+7. Merge the PR back into `main`
+8. take a breather and repeat.
+
+# What we want to focus on
+
+Through this course we want to focus on skills or disciplines that we believe will make you a better programmer in the real world.
+Programming tricks and technical skills can always be learnt while doing the work. But there are implicit skills that
+aren't usually proactively practiced; yet they carry a big impact working in a team and in a system that needs to scale and
+be maintained.
+
+Have a read of [Learning Principles](./LEARNING-PRINCIPLES.md) to know what we want to focus on.
