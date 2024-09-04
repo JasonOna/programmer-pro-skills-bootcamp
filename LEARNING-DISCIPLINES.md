@@ -66,6 +66,8 @@ Drawing some diagrams and writing short words (_like a [Lightweight Architecture
 >
 > — [Larry Constantine and Lucy Lockwood, Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design](https://www.goodreads.com/book/show/1987217.Software_for_Use)
 
+If you want insights on how to architect in a agile progressive manner, here's a [great talk on architecting for a start-up to a scale-up](https://www.youtube.com/watch?v=9Q7GANXn02k).
+
 There's even a white paper on this topic! Here's the [link](https://www.researchgate.net/publication/221098986_Little_Design_Up-Front_A_Design_Science_Approach_to_Integrating_Usability_into_Agile_Requirements_Engineering) if you're into academic papers (_I'm not but your choice_)
 .
 
