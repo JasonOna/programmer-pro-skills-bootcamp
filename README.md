@@ -42,4 +42,6 @@ Programming tricks and technical skills can always be learnt while doing the wor
 aren't usually proactively practiced; yet they carry a big impact working in a team and in a system that needs to scale and
 be maintained.
 
-Have a read of [Learning Principles](./LEARNING-PRINCIPLES.md) to know what we want to focus on.
+Have a read of [Learning Disciplines](./LEARNING-DISCIPLINES.md) to know what we want to focus on.
+
+These Disciplines should be carried out in your job as well.
