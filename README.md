@@ -13,6 +13,8 @@ The lesson will contain the goal, some steps and some hints.
 
 See [How To Begin And Complete A Lesson](#how-to-begin-and-complete-a-lesson) for futher instructions.
 
+**Note:** I encourage you not to look at the other lessons. We want to train ourselves to design and build for the unknown future. As well learn now to adapt to new requirements.
+
 # Getting Started
 
 1. `Fork` the project to your own repo.
