@@ -1,4 +1,10 @@
-# Goals
+# Goal
+
+Understand the foundational components required in an application.
+
+How to start architecting a layout that scales for the future.
+
+# Tasks
 
 - [ ] Start up the project
 - [ ] The project needs to be running
