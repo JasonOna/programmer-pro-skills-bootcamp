@@ -4,19 +4,23 @@ Understand the foundational components required in an application.
 
 How to start architecting a layout that scales for the future.
 
-# Tasks
+## Tasks
 
 - [ ] Start up the project
 - [ ] The project needs to be running
 - [ ] The project must be debuggable
 - [ ] A structure is to be defined for future development
-  * define common insfrastructure any program would require and how it would fit in
-
+  - define common insfrastructure any program would require and how it would fit in
 
 ---
 
 ## Guide
 
-* Always try to use the tooling that the community is familiar with. Don't try handroll when possible.
-* Look at different architecture patterns such as hexagonal, onion, vertical slice, etc.
+- Always try to use the tooling that the community is familiar with. Don't try handroll when possible.
+- Look at different architecture patterns such as hexagonal, onion, vertical slice, etc.
 
+---
+
+## Notes
+
+TODO: review architecture patterns
