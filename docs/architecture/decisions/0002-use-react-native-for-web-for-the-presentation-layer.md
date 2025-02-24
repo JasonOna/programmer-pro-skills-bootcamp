@@ -12,9 +12,9 @@ In the talk ["Minimum Viable Architecture"](https://youtu.be/9Q7GANXn02k?si=8Rey
 
 ## Decision
 
-We will use React Native for Web to develop applications.
+I will use React Native for Web to develop applications.
 
 ## Consequences
 
-* We will be able to find developers proficient in React
-* This would allow us to use common React framework to develop applications quickly
+* This would allow me to use common React framework to develop applications quickly
+* I will be able to build experience in Mobile and Web
