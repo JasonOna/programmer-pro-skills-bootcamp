@@ -21,7 +21,7 @@ See [How To Begin And Complete A Lesson](#how-to-begin-and-complete-a-lesson) fo
    * _all you work will be in your own fork and any assessment/review will be in your own repo._
 2. `git clone` your forked repo.
 3. in your repo, add a remote link to the main project. Let's call the main project: `teacher`.
-    * ` git remote add teacher git@ssh.dev.azure.com:v3/ctmaus/CTM/programmer-pro-skills-bootcamp`
+    * `git remote add git@github.com:JasonOna/programmer-pro-skills-bootcamp.git`
 4. `git checkout main`
 
 
